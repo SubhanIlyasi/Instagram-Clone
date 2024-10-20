@@ -8,5 +8,6 @@
     <color name="yellow">#FFFFFF00</color>
     <color name="pink">#C13584</color>
     <color name="lightblue">#1e88e5</color>
+    <color name="transparent">#00000000</color>
 
 </resources>
