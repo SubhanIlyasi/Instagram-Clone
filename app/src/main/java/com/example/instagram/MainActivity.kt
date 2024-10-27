@@ -30,8 +30,5 @@ class MainActivity : AppCompatActivity() {
             }
             finish()
         }, 1000)
-
-
-
     }
 }
