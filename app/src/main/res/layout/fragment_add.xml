@@ -27,7 +27,7 @@
             android:layout_marginLeft="15dp"
             android:layout_weight="1"
             android:gravity="center_vertical"
-            android:text="Add Reel"
+            android:text="Add Post"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -51,7 +51,7 @@
             android:layout_marginLeft="15dp"
             android:layout_weight="1"
             android:gravity="center_vertical"
-            android:text="Add Post"
+            android:text="Add Reel"
             android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>
